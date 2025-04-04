@@ -2,7 +2,7 @@
 
 # Industrial Workpiece Dimension Measurement System
 
-![Application Screenshot](demo_images/interface.png)
+![Application Screenshot](output.png)
 
 A Qt5-based visualization program for edge detection and geometric shape fitting, designed for precise dimensional measurement of industrial workpieces with camera/image input support.
 
